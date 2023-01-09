@@ -1,0 +1,141 @@
+#title {
+    background-color: #815B5B;
+}
+
+.container-fluid{
+    padding: 2% 15% 2%;
+}
+
+.event {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    font-size: 4rem;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 3rem;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+/**Carousel**/
+
+#group-carousel {
+    padding: 3% 0;
+}
+
+#groupName {
+    text-align: center;
+    background-color: #FFF8EA;
+    color:black;
+    padding: 3% 0 7%;
+}
+
+.members {
+    font-size: 4rem;
+    color: black;
+    margin-bottom: 3%;
+}
+
+.person {
+    border-radius: 100%;
+    width: 200px;
+    padding: 2% 0;
+}
+
+/**Overview**/
+
+#overview {
+    background-color: #815B5B;
+    text-align: center;
+}
+
+.white {
+    color: white;
+    margin: 2% 0;
+}
+
+.video {
+    margin: 3% auto;
+}
+
+/**Introduction**/
+
+#introduction {
+    background-color: #FFF8EA;
+    text-align: center;
+}
+
+.black {
+    color: black;
+    margin: 2% 0;
+}
+
+/**Apparatus**/
+
+#apparatus {
+    background-color: #815B5B;
+    text-align: center;
+}
+
+.myUL {
+    display: inline-block;
+    text-align: left;
+    color: white;
+    font-size: 1.5rem;
+    line-height: 2;
+}
+
+/**Procedure**/
+
+#procedure {
+    background-color: #FFF8EA;
+    text-align: center;
+}
+
+.PMargin {
+    margin-bottom: 3%;
+}
+
+.myOL {
+    display: inline-block;
+    text-align: left;
+    color: black;
+    font-size: 1.5rem;
+    line-height: 2.5;
+    list-style-position: inside;
+
+}
+
+/**Conclusion**/
+
+#conclusion{
+    background-color: #815B5B;
+    text-align: center;
+}
+
+p .conclusionParagraph {
+    width: 50rem;
+    line-height: 3;
+}
+
+/**footer**/
+
+#footer {
+    background-color: #FFF8EA;
+    text-align: center;
+}
+
+.highlight {
+    font-size: 2.5rem;
+}
